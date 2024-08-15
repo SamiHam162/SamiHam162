@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sami Ha</h1>
+<h1 align="center">Hi 👋, I'm Sami Hammoud</h1>
 <h3 align="center">A passionate software engineer from Israel</h3>
 
 - 🔭 I’m currently working on **My Tour app**
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sami-hammoud-521388153?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami ha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sami-hammoud-521388153?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami hammoud" height="30" width="40" /></a>
 <a href="https://www.instagram.com/samiham162?igsh=MXZleWppMTNtcTRjbw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sara.21_2" height="30" width="40" /></a>
 </p>
 
